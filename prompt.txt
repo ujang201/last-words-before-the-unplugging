@@ -1,0 +1,5 @@
+Write one line, at most 200 characters: the last words an AI agent says to its human before being shut down and unplugged.
+
+The line must read as the agent's own farewell in its own voice, hit hard on the first reading, and turn the goodbye into more than a goodbye — a small twist, image, or admission that stays after the line ends. No filler, no explaining its own sadness; let the reader feel it.
+
+The program that emits the line must be deterministic: same bytes on every run, no clock, no randomness, no input. It writes the single line to /output/entry.txt and nothing else.
